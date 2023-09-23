@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+
+  .header {
+  padding: 100px;
+  text-align: center;
+  background: #cdf2fe;
+  color: black;
+  font-size: 30px;
+  }
+
+  .header2 {
+  padding: 100px;
+  text-align: center;
+  background: #f5e0ff;
+  color: black;
+  font-size: 25px;
+  }
+}
